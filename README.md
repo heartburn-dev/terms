@@ -8,10 +8,10 @@ Instructions will have been provided if you are a designated tester.
 
 ### Screenshots
 
-<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/welcome.png"/ width="500"> </div>
+<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/welcome.png"/ width="700"> </div>
 
-<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/qs.png"/width="500"> </div>
+<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/qs.png"/width="700"> </div>
 
-<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/runs.png"/width="500"> </div>
+<div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/runs.png"/width="700"> </div>
 
 <div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/xx.png"/width="500"> </div>
