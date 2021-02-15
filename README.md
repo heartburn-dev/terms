@@ -6,6 +6,26 @@ TERMS aims to take the pain out of learning enumeration. It dynamically identifi
 
 Instructions will have been provided if you are a designated tester.
 
+### Installation and Usage
+
+Installing and using TERMS is easy! Just use git to clone the repository, install the dependancies and off you go.
+
+```
+git clone https://github.com/0xskunk/terms.git
+```
+
+```
+sudo apt-get install python3-pip
+```
+
+```
+pip3 install art colorama
+```
+
+```
+cd terms; python3 terms.py
+```
+
 ### Screenshots
 
 <div style="text-align:center"><img src="https://github.com/0xskunk/terms/blob/main/images/welcome.png"/ width="700"> </div>
